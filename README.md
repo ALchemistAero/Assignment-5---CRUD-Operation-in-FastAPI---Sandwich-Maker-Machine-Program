@@ -35,7 +35,7 @@ Example Sandwich
 }
 Getting Started
 1. Clone the repository
-git clone https://github.com/ALchemistAero/Assignment-5.git
+git clone https://github.com/ALchemistAero/sandwich-maker-api.git
 cd Assignment-5
 2. Create a virtual environment
 python -m venv venv
